@@ -11,6 +11,7 @@ const main = async (): Promise<void> => {
 	sleep2(15_000);
 	sleep(15_000);
 
+	//errors
 	sameFile(15_000);
 };
 
